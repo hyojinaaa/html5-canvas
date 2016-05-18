@@ -22,5 +22,7 @@ shapesContext.lineWidth = 2;
 shapesContext.moveTo(50, 150);
 // Where do I want to finish my line
 shapesContext.lineTo(100, 150);
+shapesContext.lineTo(120, 170);
+shapesContext.lineTo(140, 130);
 // Start to draw
 shapesContext.stroke();
